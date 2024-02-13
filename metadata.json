@@ -1,9 +1,12 @@
 {
-    "Identifier": "",
-    "Slug": "",
-    "Status": "",
-    "Title": "",
-    "Description": "",
+    "Identifier": "eos2fg2",
+    "Slug": "opt-admet",
+    "Status": "In progress",
+    "Title": "ADMET Properties Optimization",
+    "Description": [
+        "OptADMET optimizes the input molecule based on 32 ADME parameters. It has been built based on matched molecular pairs analysis",
+        "and has used over 300.000 datasets to generate the rules for optimization."
+    ],
     "Mode": "",
     "Task": [],
     "Input": [],
@@ -12,8 +15,8 @@
     "Output Type": [],
     "Output Shape": "",
     "Interpretation": "",
-    "Tag": [],
-    "Publication": "",
-    "Source Code": "",
-    "License": ""
+    "Tag": "ADME",
+    "Publication": "https://www.nature.com/articles/s41596-023-00942-4#code-availability",
+    "Source Code": "https://github.com/antwiser/OptADMET",
+    "License": "GPL-3.0"
 }
